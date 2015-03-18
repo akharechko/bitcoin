@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>&amp;Command-line options</source>
-        <translation>&amp;Пармаетры командной строки</translation>
+        <translation>&amp;Параметры командной строки</translation>
     </message>
     <message>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
